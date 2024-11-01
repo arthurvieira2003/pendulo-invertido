@@ -1,5 +1,9 @@
 # Sistema de Controle de Pêndulo Invertido
 
+## Acadêmicos
+
+Arthur Henrique Tscha Vieira, Marco Leone Merini e Rafael Rodrigues Ferreira de Andrade
+
 Este projeto implementa diferentes abordagens de controle para o problema do pêndulo invertido sobre um carro, utilizando técnicas de Lógica Fuzzy, Algoritmos Genéticos e Sistemas Neuro-Fuzzy.
 
 ## Estrutura do Projeto
